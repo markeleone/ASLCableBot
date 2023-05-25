@@ -6,7 +6,7 @@ Welcome to the ASL CableBot documentation!
 It was built to create a hardware platform to test *infinite dimensional* control software developed in the lab.
 
 
-Check out the :doc:`usage` section for further information, including
+Check out the :doc:`Build` section for further information, including
 how to :ref:`installation` the project.
 
 .. note::
