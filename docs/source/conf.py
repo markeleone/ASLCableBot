@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'CableBot'
+project = 'Stanford CableBot'
 copyright = '2023, Mark Leone'
 author = 'Mark Leone'
 
