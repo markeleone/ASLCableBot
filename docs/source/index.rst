@@ -18,5 +18,5 @@ Contents
 
 .. toctree::
 
-   hardware
+   Design
    Build
